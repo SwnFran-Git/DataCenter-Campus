@@ -7,7 +7,7 @@ class ConexionBD:
     _CONFIG = {
         'host': 'localhost',
         'user': 'root',
-        'password': 'Swnfran.24', # Cambiar según las credenciales del entorno
+        'password': '', # Cambiar según las credenciales del entorno
         'database': 'SERVERDB',          # Base de datos unificada oficial
         'port': 3306                      # Puerto por defecto de MySQL
     }
